@@ -1,0 +1,6 @@
+export enum ActionTypes {
+  GET_WEATHER = 'GET_WEATHER',
+  SET_LOADING = 'SET_LOADING',
+  SET_ERROR = 'SET_ERROR',
+  SET_ALERT = 'SET_ALERT',
+}
