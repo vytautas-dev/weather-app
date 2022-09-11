@@ -8,7 +8,7 @@ State management by Redux, css Bulma framework
 ```bash
 npm install
 ```
-### Register on Open Weather Map
+### Open Weather Map
 You need register on https://openweathermap.org/ and get your own API KEY. </br>
 Then create .env file in root directory and paste your API KEY:
 ```bash
